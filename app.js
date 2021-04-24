@@ -13,7 +13,7 @@ function fun()
 function dec()
 {
     
-    if(counter==0) counter=0;
+    if(counter<=0) counter=0;
     else
     {
         --counter;
