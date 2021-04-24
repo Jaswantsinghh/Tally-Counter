@@ -34,3 +34,14 @@ footer
     text-align: center;
     margin-top: 250px;
 }
+#reset, #save
+{
+    width: 10%;
+    border: 3px solid red;
+    color: red;
+    margin-left: 45%;
+}
+#inc, #dec
+{
+    touch-action: manipulation;
+}
