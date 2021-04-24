@@ -31,7 +31,7 @@ function reset()
 
 function local()
 {
-    localStorage.setItem("myval",counter);
+    localStorage.setItem("myval","counter");
 }
 
 function save()
